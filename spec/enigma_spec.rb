@@ -6,6 +6,7 @@ RSpec.describe Enigma do
 
   it 'should exist as a class' do
     expect(enigma).to be_a Enigma
+    require 'pry';binding.pry
   end
   
   xit 'should return an encrypted hash' do
