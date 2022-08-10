@@ -13,7 +13,6 @@ RSpec.describe Enigma do
     it 'should have a date method' do
       # enigma.date("11012022")
       # require 'pry';binding.pry
-
     end
   
   end
